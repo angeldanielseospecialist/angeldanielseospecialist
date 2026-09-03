@@ -39,7 +39,7 @@ My background in programming allows me to go beyond traditional SEO, tackling pr
 ## 📬 Contact  
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:angeldanielseospecialist@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/angeldanielgutierrezquiroga)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/angel-daniel-gutierrez-quiroga-seo/)  
 
 ---
 
