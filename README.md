@@ -18,14 +18,6 @@ I come from web development, so I do SEO from inside the code. When a site isn't
 
 ---
 
-## 🚀 Currently building
-
-**Singularity Position**: a SaaS for freelance SEO professionals, built with Astro, React and Node.js. I'm developing the product and its SEO foundation from the first commit.
-
-🔗 [singularityposition.com](https://www.singularityposition.com/)
-
----
-
 ## 🛠️ Stack
 
 **SEO & Analytics**
